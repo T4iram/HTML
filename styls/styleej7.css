@@ -1,0 +1,37 @@
+.red{
+    color: red;
+}
+.blue{
+    color:blue;
+    margin-bottom: 20px;
+}
+.izq{
+    direction : rtl;
+    margin-bottom: 20px;
+}
+.der{
+    direction : ltr;
+    margin-bottom: 40px;
+}
+.spacing{
+    letter-spacing: 6px;
+    margin-bottom: 60px;
+}
+.centero{
+     text-align:center; 
+     margin-bottom: 60px;
+    }                           
+.subr{
+    text-decoration:underline;
+}
+.taxado{
+    text-decoration:line-through;
+    margin-bottom: 60px;
+}
+.indent{
+    text-indent: 15px;
+}
+.texto{
+    font-style:italic;
+    text-align:center;
+}

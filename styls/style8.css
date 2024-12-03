@@ -1,0 +1,30 @@
+.grosor{
+    font-weight: bold;
+}
+.mayus{
+ text-transform: uppercase;   
+}
+.distin{
+    text-transform: capitalize;
+}
+.espac{
+    white-space: pre;
+}
+.px{
+    word-spacing:20px;
+}
+.tamaño{
+    font-size: 30px;
+}
+.serif{
+    font-family:serif;
+}
+.monospace{
+    font-family:monospace;
+}
+.italica{
+    font-style:italic;
+}
+.estilo{
+    font-size:12px;
+}

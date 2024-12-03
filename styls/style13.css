@@ -1,0 +1,21 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+div{
+    width: 1000px;
+    height: 100px;
+    padding: 1px;
+    border: solid ;
+    overflow: auto;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    font-size: 20px;
+}
+.punt{
+    clip-path: inset(5% 30% 15% 35%);
+}

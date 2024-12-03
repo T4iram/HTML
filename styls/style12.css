@@ -1,0 +1,11 @@
+.nav ul li{
+    font-size: 15px;
+    background-color: #000;
+    text-align: center;
+}
+.ul{
+    list-style: circle;
+}
+.li{
+    list-style: none;
+}

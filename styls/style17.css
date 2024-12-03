@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Classy Vogue;
+    src: url(../Assets/fonts/Classyvogueregular-p7rRy.otf);
+}
+body{
+    font-family: Classy Vogue;
+    src: url(../Assets/fonts/Classyvogueregular-p7rRy.otf);
+}
+p{
+    cursor: pointer;
+}
